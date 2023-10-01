@@ -29,7 +29,7 @@ const page = () => {
               <div className='font-normal text-base text-gray-500'>Imagine Dragons</div>
             </a>
             <div className='w-12 rounded-full'>
-              <Image src="	https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd" alt="Spotify" className='rounded-full animate-spin-slow' width={100} height={100} />
+              <Image src="https://i.scdn.co/image/ab67616d00001e02da6f73a25f4c79d0e6b4a8bd" alt="Spotify" className='rounded-full animate-spin-slow' width={100} height={100} />
             </div>
           </div>  
         </div>
